@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+pydantic
+scikit-learn
+pandas
+joblib
+xgboost
+streamlit
+requests
+# yeni bir terminal açıp " pip install -r requirements.txt " komutunu çalıştırarak gerekli kütüphaneleri yükleyebilirsiniz.
